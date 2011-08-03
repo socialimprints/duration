@@ -1,9 +1,13 @@
 = Project
 Duration <http://rubyforge.org/projects/duration>
 
-= Author
+= Original Author
 Matthew Harris <matt@matthewharris.org>
 http://matthewharris.org
+
+= Forked Author
+Paul Gibler <paul.gibler@velir.com>
+http://velir.com
 
 = Synopsis
 Duration objects are simple mechanisms that allow you to operate on durations
