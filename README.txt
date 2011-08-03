@@ -5,8 +5,9 @@ Duration <http://rubyforge.org/projects/duration>
 Matthew Harris <matt@matthewharris.org>
 http://matthewharris.org
 
-= Fork Author
+= Fork Authors
 Paul Gibler <paul.gibler@velir.com>
+Patrick Robertson <patrick.robertson@velir.com>
 http://velir.com
 
 = Synopsis
