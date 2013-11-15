@@ -3,7 +3,7 @@ $LOAD_PATH << File.join(File.dirname(__FILE__), 'lib')
 require 'duration/version'
 
 Gem::Specification.new do |s|
-  s.name = %q{velir_duration}
+  s.name = %q{duration}
   s.version = Duration::VERSION
   s.date = %q{2011-08-03}
   s.authors = ["Paul Gibler", "Patrick Robertson"]
